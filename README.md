@@ -54,7 +54,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://www.marketyo.com/">Software Engineer at BTK</a> </b></td>
+      <td><b><a href="https://www.btk.gov.tr/">Software Engineer at BTK</a> </b></td>
       <td>-</td>
       <td>2015 - Present</td>
     </tr>
@@ -64,7 +64,7 @@
       <td>2018 - 2021</td>
     </tr>
   	<tr>
-      <td><b><a href="">Mercedes Benz Türk A.Ş. (Daimler)</a> </b></td>
+      <td><b><a href="https://www.mercedesbenzturk.com.tr/">Mercedes Benz Türk A.Ş. (Daimler)</a> </b></td>
       <td>Subject Matter Expert - IT Infrastructure</td>
       <td>2015</td>
     </tr>
